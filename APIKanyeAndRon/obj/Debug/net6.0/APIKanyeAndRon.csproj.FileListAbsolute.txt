@@ -1,0 +1,17 @@
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\bin\Debug\net6.0\APIKanyeAndRon.exe
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\bin\Debug\net6.0\APIKanyeAndRon.deps.json
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\bin\Debug\net6.0\APIKanyeAndRon.runtimeconfig.json
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\bin\Debug\net6.0\APIKanyeAndRon.dll
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\bin\Debug\net6.0\APIKanyeAndRon.pdb
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\obj\Debug\net6.0\APIKanyeAndRon.csproj.AssemblyReference.cache
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\obj\Debug\net6.0\APIKanyeAndRon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\obj\Debug\net6.0\APIKanyeAndRon.AssemblyInfoInputs.cache
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\obj\Debug\net6.0\APIKanyeAndRon.AssemblyInfo.cs
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\obj\Debug\net6.0\APIKanyeAndRon.csproj.CoreCompileInputs.cache
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\obj\Debug\net6.0\APIKanyeAndRon.csproj.CopyComplete
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\obj\Debug\net6.0\APIKanyeAndRon.dll
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\obj\Debug\net6.0\refint\APIKanyeAndRon.dll
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\obj\Debug\net6.0\APIKanyeAndRon.pdb
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\obj\Debug\net6.0\APIKanyeAndRon.genruntimeconfig.cache
+C:\Users\chudl\Desktop\repos\API\APIKanyeAndRon\APIKanyeAndRon\obj\Debug\net6.0\ref\APIKanyeAndRon.dll

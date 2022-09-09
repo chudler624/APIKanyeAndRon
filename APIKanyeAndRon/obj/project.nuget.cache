@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtebBpev/jFw3cqTw2RAGzYtq7Z8bf9Dc9gnY9xX/RO1mW6noOE1pNX/DkQBrmivUdfn9VbvhXXMeYTxdFo/mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chudl\\Desktop\\repos\\API\\APIKanyeAndRon\\APIKanyeAndRon\\APIKanyeAndRon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chudl\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
